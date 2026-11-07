@@ -1,0 +1,27 @@
+{
+    "project": "Differential Drive Robot Kinematics",
+    "unconstrained": {
+        "simulation_duration_seconds": 16.0,
+        "total_distance_travelled_m": 6.800000000000001,
+        "maximum_linear_velocity_mps": 0.8,
+        "maximum_angular_velocity_radps": 3.0,
+        "maximum_angular_acceleration_radps2": 90.0,
+        "maximum_left_wheel_speed_radps": 12.5,
+        "maximum_right_wheel_speed_radps": 22.0,
+        "final_x_m": 2.136485595719201,
+        "final_y_m": 0.49668789182109196,
+        "final_orientation_rad": -1.2831853071796098
+    },
+    "constrained": {
+        "simulation_duration_seconds": 16.0,
+        "total_distance_travelled_m": 4.050124999999998,
+        "maximum_linear_velocity_mps": 0.4925,
+        "maximum_angular_velocity_radps": 3.0,
+        "maximum_angular_acceleration_radps2": 1.0000000000000009,
+        "maximum_left_wheel_speed_radps": 10.0,
+        "maximum_right_wheel_speed_radps": 10.0,
+        "final_x_m": 0.7405193155912332,
+        "final_y_m": 0.6564352075552441,
+        "final_orientation_rad": 0.021129385640834997
+    }
+}
